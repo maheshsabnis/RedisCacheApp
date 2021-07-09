@@ -2,7 +2,7 @@
 
 https://redislabs.com/ebook/appendix-a/a-3-installing-on-windows/a-3-2-installing-redis-on-window/
 
-# Read its COnnectio String and Add it in the appsettings.json as value of 'Redis' in 'onnectionStrings'
+# Read its Connection String and Add it in the appsettings.json as value of 'Redis' in 'ConnectionStrings'
 
 # Also Must have database in Azure / On-Prmises and use its COnnection String in 'AppConnectionString' of 'ConnectionStrings' in appsettings.json
 
